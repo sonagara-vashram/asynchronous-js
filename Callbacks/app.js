@@ -13,7 +13,6 @@ function displayData(data) {
     console.log("Data received: ", data);
 }
 
-// Call fetchData and pass displayData as a callback
 fetchData(displayData);
 
 // Error-First Callback Example

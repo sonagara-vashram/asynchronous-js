@@ -23,7 +23,7 @@ function fetchData() {
 
   setTimeout(() => {
     console.log("Data fetched after 3 seconds.");
-  }, 3000);  // Simulate a 3 second delay for fetching data
+  }, 3000);  // 3 second delay for fetching data
 }
 
 fetchData();
